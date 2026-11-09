@@ -1,0 +1,9 @@
+LUNARA 18 — INSTALAÇÃO E LIMITAÇÕES
+
+1. Exporta primeiro os teus dados na aplicação atual.
+2. Descompacta o ZIP e envia os ficheiros da raiz para o repositório GitHub Pages.
+3. Aguarda a publicação e reabre a app. Se vires a versão antiga, fecha e reabre; a cache offline pode demorar a atualizar.
+
+NOVIDADES: sessões de 5/10/15 minutos com panda vetorial, voz opcional do dispositivo, ambientes sonoros sintetizados, acorde musical ambiente, visual de sessão, correção da repetição de missões em dias diferentes, painel de privacidade e eliminação de registos.
+
+LIMITAÇÕES: não existe IA, modelo 3D real, áudio gravado ou música instrumental produzida em estúdio. A narração depende das vozes do sistema. Não há encriptação dos dados locais. Não foram realizados testes reais em Safari/iPhone. Os temporizadores pausam ao passar a aplicação para segundo plano; os sons podem parar por limitações do iOS. Não publicar dados pessoais no GitHub.
